@@ -1,3 +1,13 @@
+## Counter
+
+A simple increment and decrement counter using React.
+[Counter](/public/counter.png)
+
+[Video](/public/counter.mov)
+
+[Code](/public/code.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
