@@ -1,0 +1,26 @@
+.row {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: 15px;
+  margin-left: 15px;
+}
+
+.counter {
+  margin: 15px;
+  font-size: 60px;
+}
+
+.btn {
+  width: 50px;
+  font-size: 40px;
+  background-color: #4e6996
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 50px;
+}
