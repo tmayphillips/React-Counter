@@ -1,11 +1,12 @@
 ## Counter
 
 A simple increment and decrement counter using React.
-[Counter](/public/counter.png)
 
-[Video](/public/counter.mov)
+<img width="200px" src="/public/counter.png">
 
-[Code](/public/code.png)
+[Video]("https://youtu.be/JFQEBISCG8g")
+
+<img src="/public/code.png">
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
