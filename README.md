@@ -4,8 +4,6 @@ A simple increment and decrement counter using React.
 
 <img width="200px" src="/public/counter.png">
 
-[Video]("https://youtu.be/JFQEBISCG8g")
-
 <img src="/public/code.png">
 
 
